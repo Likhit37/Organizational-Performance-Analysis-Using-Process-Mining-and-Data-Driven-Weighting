@@ -1,0 +1,18 @@
+# Core
+pandas
+numpy
+pyarrow
+
+# Parallel / large-scale processing
+dask[dataframe]
+tqdm
+
+# Machine Learning (for later)
+scikit-learn
+
+# Visualization
+matplotlib
+plotly
+
+# Jupyter
+jupyterlab

@@ -1,0 +1,23 @@
+Hybrid Performance Model — Executive Summary
+-------------------------------------------
+Top municipality: BPIC15_3 (score=1.0)
+Worst municipality: BPIC15_4 (score=0.0)
+
+Top case examples:
+ - case 5565409 (muni=BPIC15_4) score=1.0
+ - case 4568005 (muni=BPIC15_1) score=0.971
+ - case 11070999 (muni=BPIC15_5) score=0.963
+ - case 5597050 (muni=BPIC15_4) score=0.962
+ - case 7762378 (muni=BPIC15_3) score=0.959
+
+Top resources:
+ - resource 4901428 score=1.0
+ - resource 560852 score=0.908
+ - resource 560604 score=0.817
+ - resource 560454 score=0.803
+ - resource 560464 score=0.751
+
+Event statistics:
+ - total events: 262628
+ - total cases: 3183
+ - total resources: 64

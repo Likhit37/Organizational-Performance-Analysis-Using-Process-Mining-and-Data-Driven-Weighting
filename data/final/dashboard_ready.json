@@ -1,0 +1,124 @@
+{
+  "top_municipalities": [
+    {
+      "municipality": "BPIC15_3",
+      "hybrid_score": 1.0
+    },
+    {
+      "municipality": "BPIC15_1",
+      "hybrid_score": 0.816
+    },
+    {
+      "municipality": "BPIC15_5",
+      "hybrid_score": 0.434
+    },
+    {
+      "municipality": "BPIC15_2",
+      "hybrid_score": 0.02
+    },
+    {
+      "municipality": "BPIC15_4",
+      "hybrid_score": 0.0
+    }
+  ],
+  "top_cases": [
+    {
+      "case_id": "5565409",
+      "case_hybrid_score": 1.0,
+      "municipality": "BPIC15_4"
+    },
+    {
+      "case_id": "4568005",
+      "case_hybrid_score": 0.971,
+      "municipality": "BPIC15_1"
+    },
+    {
+      "case_id": "11070999",
+      "case_hybrid_score": 0.963,
+      "municipality": "BPIC15_5"
+    },
+    {
+      "case_id": "5597050",
+      "case_hybrid_score": 0.962,
+      "municipality": "BPIC15_4"
+    },
+    {
+      "case_id": "7762378",
+      "case_hybrid_score": 0.959,
+      "municipality": "BPIC15_3"
+    },
+    {
+      "case_id": "3439262",
+      "case_hybrid_score": 0.95,
+      "municipality": "BPIC15_1"
+    },
+    {
+      "case_id": "4972924",
+      "case_hybrid_score": 0.949,
+      "municipality": "BPIC15_1"
+    },
+    {
+      "case_id": "7126056",
+      "case_hybrid_score": 0.942,
+      "municipality": "BPIC15_5"
+    },
+    {
+      "case_id": "3136211",
+      "case_hybrid_score": 0.941,
+      "municipality": "BPIC15_1"
+    },
+    {
+      "case_id": "3451526",
+      "case_hybrid_score": 0.94,
+      "municipality": "BPIC15_1"
+    }
+  ],
+  "top_resources": [
+    {
+      "resource": "4901428",
+      "resource_hybrid_score": 1.0
+    },
+    {
+      "resource": "560852",
+      "resource_hybrid_score": 0.908
+    },
+    {
+      "resource": "560604",
+      "resource_hybrid_score": 0.817
+    },
+    {
+      "resource": "560454",
+      "resource_hybrid_score": 0.803
+    },
+    {
+      "resource": "560464",
+      "resource_hybrid_score": 0.751
+    },
+    {
+      "resource": "560600",
+      "resource_hybrid_score": 0.672
+    },
+    {
+      "resource": "560696",
+      "resource_hybrid_score": 0.667
+    },
+    {
+      "resource": "560598",
+      "resource_hybrid_score": 0.656
+    },
+    {
+      "resource": "2013365",
+      "resource_hybrid_score": 0.616
+    },
+    {
+      "resource": "2670601",
+      "resource_hybrid_score": 0.584
+    }
+  ],
+  "counts": {
+    "n_cases": 3183,
+    "n_resources": 64,
+    "n_municipalities": 5,
+    "n_events": 262628
+  }
+}

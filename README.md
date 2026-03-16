@@ -194,13 +194,6 @@ python src/visualization/dashboard.py
 └── README.md
 ```
 
----
-
-## 👥 Team
-
-> Add your team members here.
-
----
 
 ## 📄 License
 
